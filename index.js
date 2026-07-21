@@ -1,3 +1,3 @@
-console.log("This is angular");
+console.log("This is Git");
 
-console.log("Edited in the file");
+console.log("Changes");
